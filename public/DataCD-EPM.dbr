@@ -1,0 +1,86 @@
+<DeepBurner_record ver="1.9.0.228" type="data">
+    <data_cd ver="1" device="" session2import="0" finalize_disc="1" finalize_track="1" bootable="0" boot_image_path="">
+        <dir name="CDRoot" imp="0">
+            <dir name="data" imp="0">
+                <file name="aluno1.png" path="C:\Documents and Settings\antunes\Os meus documentos\Dropbox\Trabalhos\Jogo SGC\Projecto CD\data\aluno1.png" imp="0" />
+                <file name="aluno2.png" path="C:\Documents and Settings\antunes\Os meus documentos\Dropbox\Trabalhos\Jogo SGC\Projecto CD\data\aluno2.png" imp="0" />
+                <file name="aluno3.png" path="C:\Documents and Settings\antunes\Os meus documentos\Dropbox\Trabalhos\Jogo SGC\Projecto CD\data\aluno3.png" imp="0" />
+                <file name="alunos1.png" path="C:\Documents and Settings\antunes\Os meus documentos\Dropbox\Trabalhos\Jogo SGC\Projecto CD\data\alunos1.png" imp="0" />
+                <file name="alunos2.png" path="C:\Documents and Settings\antunes\Os meus documentos\Dropbox\Trabalhos\Jogo SGC\Projecto CD\data\alunos2.png" imp="0" />
+                <file name="arbusto.png" path="C:\Documents and Settings\antunes\Os meus documentos\Dropbox\Trabalhos\Jogo SGC\Projecto CD\data\arbusto.png" imp="0" />
+                <file name="arvore.png" path="C:\Documents and Settings\antunes\Os meus documentos\Dropbox\Trabalhos\Jogo SGC\Projecto CD\data\arvore.png" imp="0" />
+                <file name="bonus.wav" path="C:\Documents and Settings\antunes\Os meus documentos\Dropbox\Trabalhos\Jogo SGC\Projecto CD\data\bonus.wav" imp="0" />
+                <file name="buraco.png" path="C:\Documents and Settings\antunes\Os meus documentos\Dropbox\Trabalhos\Jogo SGC\Projecto CD\data\buraco.png" imp="0" />
+                <file name="bus.png" path="C:\Documents and Settings\antunes\Os meus documentos\Dropbox\Trabalhos\Jogo SGC\Projecto CD\data\bus.png" imp="0" />
+                <file name="bus-AV.png" path="C:\Documents and Settings\antunes\Os meus documentos\Dropbox\Trabalhos\Jogo SGC\Projecto CD\data\bus-AV.png" imp="0" />
+                <file name="buzina.png" path="C:\Documents and Settings\antunes\Os meus documentos\Dropbox\Trabalhos\Jogo SGC\Projecto CD\data\buzina.png" imp="0" />
+                <file name="carro1-d.png" path="C:\Documents and Settings\antunes\Os meus documentos\Dropbox\Trabalhos\Jogo SGC\Projecto CD\data\carro1-d.png" imp="0" />
+                <file name="carro1-dAV.png" path="C:\Documents and Settings\antunes\Os meus documentos\Dropbox\Trabalhos\Jogo SGC\Projecto CD\data\carro1-dAV.png" imp="0" />
+                <file name="carro2-d.png" path="C:\Documents and Settings\antunes\Os meus documentos\Dropbox\Trabalhos\Jogo SGC\Projecto CD\data\carro2-d.png" imp="0" />
+                <file name="carro2-dAV.png" path="C:\Documents and Settings\antunes\Os meus documentos\Dropbox\Trabalhos\Jogo SGC\Projecto CD\data\carro2-dAV.png" imp="0" />
+                <file name="carro3-d.png" path="C:\Documents and Settings\antunes\Os meus documentos\Dropbox\Trabalhos\Jogo SGC\Projecto CD\data\carro3-d.png" imp="0" />
+                <file name="carro3-dAV.png" path="C:\Documents and Settings\antunes\Os meus documentos\Dropbox\Trabalhos\Jogo SGC\Projecto CD\data\carro3-dAV.png" imp="0" />
+                <file name="carro4-d.png" path="C:\Documents and Settings\antunes\Os meus documentos\Dropbox\Trabalhos\Jogo SGC\Projecto CD\data\carro4-d.png" imp="0" />
+                <file name="carro4-dAV.png" path="C:\Documents and Settings\antunes\Os meus documentos\Dropbox\Trabalhos\Jogo SGC\Projecto CD\data\carro4-dAV.png" imp="0" />
+                <file name="carro5-d.png" path="C:\Documents and Settings\antunes\Os meus documentos\Dropbox\Trabalhos\Jogo SGC\Projecto CD\data\carro5-d.png" imp="0" />
+                <file name="carro5-dAV.png" path="C:\Documents and Settings\antunes\Os meus documentos\Dropbox\Trabalhos\Jogo SGC\Projecto CD\data\carro5-dAV.png" imp="0" />
+                <file name="carro6-d.png" path="C:\Documents and Settings\antunes\Os meus documentos\Dropbox\Trabalhos\Jogo SGC\Projecto CD\data\carro6-d.png" imp="0" />
+                <file name="carro6-dAV.png" path="C:\Documents and Settings\antunes\Os meus documentos\Dropbox\Trabalhos\Jogo SGC\Projecto CD\data\carro6-dAV.png" imp="0" />
+                <file name="carro7-d.png" path="C:\Documents and Settings\antunes\Os meus documentos\Dropbox\Trabalhos\Jogo SGC\Projecto CD\data\carro7-d.png" imp="0" />
+                <file name="carro7-dAV.png" path="C:\Documents and Settings\antunes\Os meus documentos\Dropbox\Trabalhos\Jogo SGC\Projecto CD\data\carro7-dAV.png" imp="0" />
+                <file name="carro8-d.png" path="C:\Documents and Settings\antunes\Os meus documentos\Dropbox\Trabalhos\Jogo SGC\Projecto CD\data\carro8-d.png" imp="0" />
+                <file name="carro8-dAV.png" path="C:\Documents and Settings\antunes\Os meus documentos\Dropbox\Trabalhos\Jogo SGC\Projecto CD\data\carro8-dAV.png" imp="0" />
+                <file name="Castelo.png" path="C:\Documents and Settings\antunes\Os meus documentos\Dropbox\Trabalhos\Jogo SGC\Projecto CD\data\Castelo.png" imp="0" />
+                <file name="completedmusic.mp3" path="C:\Documents and Settings\antunes\Os meus documentos\Dropbox\Trabalhos\Jogo SGC\Projecto CD\data\completedmusic.mp3" imp="0" />
+                <file name="data.dat" path="C:\Documents and Settings\antunes\Os meus documentos\Dropbox\Trabalhos\Jogo SGC\Projecto CD\data\data.dat" imp="0" />
+                <file name="epm.png" path="C:\Documents and Settings\antunes\Os meus documentos\Dropbox\Trabalhos\Jogo SGC\Projecto CD\data\epm.png" imp="0" />
+                <file name="EPM-hdu.png" path="C:\Documents and Settings\antunes\Os meus documentos\Dropbox\Trabalhos\Jogo SGC\Projecto CD\data\EPM-hdu.png" imp="0" />
+                <file name="estrada1.jpg" path="C:\Documents and Settings\antunes\Os meus documentos\Dropbox\Trabalhos\Jogo SGC\Projecto CD\data\estrada1.jpg" imp="0" />
+                <file name="estrada1-2.jpg" path="C:\Documents and Settings\antunes\Os meus documentos\Dropbox\Trabalhos\Jogo SGC\Projecto CD\data\estrada1-2.jpg" imp="0" />
+                <file name="estrada1-3.jpg" path="C:\Documents and Settings\antunes\Os meus documentos\Dropbox\Trabalhos\Jogo SGC\Projecto CD\data\estrada1-3.jpg" imp="0" />
+                <file name="estrada3.jpg" path="C:\Documents and Settings\antunes\Os meus documentos\Dropbox\Trabalhos\Jogo SGC\Projecto CD\data\estrada3.jpg" imp="0" />
+                <file name="explosao3.wav" path="C:\Documents and Settings\antunes\Os meus documentos\Dropbox\Trabalhos\Jogo SGC\Projecto CD\data\explosao3.wav" imp="0" />
+                <file name="gameovermusic.mp3" path="C:\Documents and Settings\antunes\Os meus documentos\Dropbox\Trabalhos\Jogo SGC\Projecto CD\data\gameovermusic.mp3" imp="0" />
+                <file name="ganhou.jpg" path="C:\Documents and Settings\antunes\Os meus documentos\Dropbox\Trabalhos\Jogo SGC\Projecto CD\data\ganhou.jpg" imp="0" />
+                <file name="gas.png" path="C:\Documents and Settings\antunes\Os meus documentos\Dropbox\Trabalhos\Jogo SGC\Projecto CD\data\gas.png" imp="0" />
+                <file name="highscore.dat" path="C:\Documents and Settings\antunes\Os meus documentos\Dropbox\Trabalhos\Jogo SGC\Projecto CD\data\highscore.dat" imp="0" />
+                <file name="instrucoes.jpg" path="C:\Documents and Settings\antunes\Os meus documentos\Dropbox\Trabalhos\Jogo SGC\Projecto CD\data\instrucoes.jpg" imp="0" />
+                <file name="levelmusic.mp3" path="C:\Documents and Settings\antunes\Os meus documentos\Dropbox\Trabalhos\Jogo SGC\Projecto CD\data\levelmusic.mp3" imp="0" />
+                <file name="mancha.png" path="C:\Documents and Settings\antunes\Os meus documentos\Dropbox\Trabalhos\Jogo SGC\Projecto CD\data\mancha.png" imp="0" />
+                <file name="muro1.png" path="C:\Documents and Settings\antunes\Os meus documentos\Dropbox\Trabalhos\Jogo SGC\Projecto CD\data\muro1.png" imp="0" />
+                <file name="muro1-2.png" path="C:\Documents and Settings\antunes\Os meus documentos\Dropbox\Trabalhos\Jogo SGC\Projecto CD\data\muro1-2.png" imp="0" />
+                <file name="muro1-3.png" path="C:\Documents and Settings\antunes\Os meus documentos\Dropbox\Trabalhos\Jogo SGC\Projecto CD\data\muro1-3.png" imp="0" />
+                <file name="oferta.jpg" path="C:\Documents and Settings\antunes\Os meus documentos\Dropbox\Trabalhos\Jogo SGC\Projecto CD\data\oferta.jpg" imp="0" />
+                <file name="paragem.png" path="C:\Documents and Settings\antunes\Os meus documentos\Dropbox\Trabalhos\Jogo SGC\Projecto CD\data\paragem.png" imp="0" />
+                <file name="perdeu.png" path="C:\Documents and Settings\antunes\Os meus documentos\Dropbox\Trabalhos\Jogo SGC\Projecto CD\data\perdeu.png" imp="0" />
+                <file name="pontos.jpg" path="C:\Documents and Settings\antunes\Os meus documentos\Dropbox\Trabalhos\Jogo SGC\Projecto CD\data\pontos.jpg" imp="0" />
+                <file name="reverse.wav" path="C:\Documents and Settings\antunes\Os meus documentos\Dropbox\Trabalhos\Jogo SGC\Projecto CD\data\reverse.wav" imp="0" />
+                <file name="roda.png" path="C:\Documents and Settings\antunes\Os meus documentos\Dropbox\Trabalhos\Jogo SGC\Projecto CD\data\roda.png" imp="0" />
+                <file name="sinal1.png" path="C:\Documents and Settings\antunes\Os meus documentos\Dropbox\Trabalhos\Jogo SGC\Projecto CD\data\sinal1.png" imp="0" />
+                <file name="sinal2.png" path="C:\Documents and Settings\antunes\Os meus documentos\Dropbox\Trabalhos\Jogo SGC\Projecto CD\data\sinal2.png" imp="0" />
+                <file name="sinal3.png" path="C:\Documents and Settings\antunes\Os meus documentos\Dropbox\Trabalhos\Jogo SGC\Projecto CD\data\sinal3.png" imp="0" />
+                <file name="titlemusic.mp3" path="C:\Documents and Settings\antunes\Os meus documentos\Dropbox\Trabalhos\Jogo SGC\Projecto CD\data\titlemusic.mp3" imp="0" />
+                <file name="titulo.jpg" path="C:\Documents and Settings\antunes\Os meus documentos\Dropbox\Trabalhos\Jogo SGC\Projecto CD\data\titulo.jpg" imp="0" />
+                <file name="vidroquebrando4.wav" path="C:\Documents and Settings\antunes\Os meus documentos\Dropbox\Trabalhos\Jogo SGC\Projecto CD\data\vidroquebrando4.wav" imp="0" />
+                <file name="woohoo.wav" path="C:\Documents and Settings\antunes\Os meus documentos\Dropbox\Trabalhos\Jogo SGC\Projecto CD\data\woohoo.wav" imp="0" />
+            </dir>
+            <file name="ADA.exe" path="C:\Documents and Settings\antunes\Os meus documentos\Dropbox\Trabalhos\Jogo SGC\Projecto CD\ADA.exe" imp="0" />
+            <file name="Newsletter ADA 2012-15.pdf" path="C:\Documents and Settings\antunes\Os meus documentos\Dropbox\Trabalhos\Jogo SGC\Projecto CD\Newsletter ADA 2012-15.pdf" imp="0" />
+            <file name="Setup.exe" path="C:\Documents and Settings\antunes\Os meus documentos\Dropbox\Trabalhos\Jogo SGC\Projecto CD\Setup.exe" imp="0" />
+        </dir>
+    </data_cd>
+    <cd_label ver="1" zoom="0" view="label" layout="pocket">
+        <label />
+        <front />
+        <back />
+    </cd_label>
+    <autorun ver="1" use="1">
+        <main name="MainForm" image_path="C:\Documents and Settings\antunes\Os meus documentos\Dropbox\Trabalhos\Jogo SGC\games\imagens-ADA\titulo-Install.bmp" hint="" />
+        <title name="Title" text="Title" hint="Title box" left="140" top="40" width="57" height="33" fontname="Times New Roman" fontsize="20" fontcolor="255" visible="0" fontstyle="0" />
+        <comment name="Comments" text="Comment" hint="Comment box" left="40" top="70" width="89" height="29" fontname="Times New Roman" fontsize="15" fontcolor="255" visible="0" fontstyle="0" />
+        <exitbutton name="ButtonExit" image_path="C:\Documents and Settings\antunes\Os meus documentos\DeepBurner1_Portable\Images\button3.bmp" image_down_path="C:\Documents and Settings\antunes\Os meus documentos\DeepBurner1_Portable\Images\button3down.bmp" text="Exit" hint="Sair do programa." left="550" top="390" width="250" height="60" fontname="MS Sans Serif" fontsize="15" fontcolor="255" visible="1" fontstyle="0" />
+        <button name="Button1" image_path="C:\Documents and Settings\antunes\Os meus documentos\DeepBurner1_Portable\images\Button3.bmp" image_down_path="C:\Documents and Settings\antunes\Os meus documentos\DeepBurner1_Portable\images\Button3Down.bmp" app_path="..\ADA.exe" text="Jogar" hint="Vamos jogar então." left="540" top="190" width="250" height="60" fontname="MS Sans Serif" fontsize="20" fontcolor="33023" visible="1" fontstyle="0" />
+        <button name="Button2" image_path="C:\Documents and Settings\antunes\Os meus documentos\DeepBurner1_Portable\images\Button3.bmp" image_down_path="C:\Documents and Settings\antunes\Os meus documentos\DeepBurner1_Portable\images\Button3Down.bmp" app_path="..\Setup.exe" text="Instalar" hint="Instalar o Jogo no PC" left="540" top="290" width="250" height="60" fontname="MS Sans Serif" fontsize="15" fontcolor="16777215" visible="1" fontstyle="0" />
+        <button name="Button3" image_path="C:\Documents and Settings\antunes\Os meus documentos\DeepBurner1_Portable\images\Button3.bmp" image_down_path="C:\Documents and Settings\antunes\Os meus documentos\DeepBurner1_Portable\images\Button3Down.bmp" app_path="..\Newsletter ADA 2012-15.pdf" text="Cursos da EPM" hint="Ler a NewsADA" left="70" top="190" width="250" height="60" fontname="MS Sans Serif" fontsize="15" fontcolor="65535" visible="1" fontstyle="0" />
+    </autorun>
+</DeepBurner_record>
