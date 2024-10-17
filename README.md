@@ -3,6 +3,8 @@
 
 My first game made a few years ago (2012)
 
+[Download do jogo na plataforma itch.io](https://jmartsdesign.itch.io/eu-vou-para-a-epm)
+
 ----
 
 > [!NOTE]
